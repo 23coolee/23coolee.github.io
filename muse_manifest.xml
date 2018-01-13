@@ -1,4 +1,4 @@
-<manifest alg="2" build="6" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1515877228571">
+<manifest alg="2" build="6" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1515877410153">
   <folder name="css">
     <file name="site_global.css" crc="426517801"/>
     <file name="master_a-master.css" crc="4217711237" ref="history:about-us:bracket:index"/>
@@ -27,6 +27,6 @@
   </folder>
   <file name="index.html" crc="3781150394" mt="1515876923616" redirect="true"/>
   <file name="about-us.html" crc="4284045967" mt="1515876923616" redirect="true"/>
-  <file name="bracket.html" crc="65986773" mt="1515877169941" redirect="true"/>
+  <file name="bracket.html" crc="4291856" mt="1515877404370" redirect="true"/>
   <file name="history.html" crc="3962512386" mt="1515876923617" redirect="true"/>
 </manifest>
