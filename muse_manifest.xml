@@ -1,0 +1,32 @@
+<manifest alg="2" build="6" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1515877228571">
+  <folder name="css">
+    <file name="site_global.css" crc="426517801"/>
+    <file name="master_a-master.css" crc="4217711237" ref="history:about-us:bracket:index"/>
+    <file name="history.css" crc="3991125488" ref="history"/>
+    <file name="about-us.css" crc="3991125488" ref="about-us"/>
+    <file name="bracket.css" crc="331108617" ref="bracket"/>
+    <file name="index.css" crc="349225508" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4021225061" ref="index:about-us:bracket:history"/>
+    <file name="museutils.js" crc="4136605575" ref="index:about-us:bracket:history"/>
+    <file name="jquery.musemenu.js" crc="4009181048" ref="index:about-us:bracket:history"/>
+    <file name="jquery.watch.js" crc="172956391" ref="index:about-us:bracket:history"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about-us:bracket:history"/>
+  </folder>
+  <folder name="images">
+    <file name="cpgbackground.jpg" crc="4170278254" ref="index:about-us:bracket:history"/>
+    <file name="u181-4.png" crc="4130908951" ref="index:about-us:bracket:history"/>
+    <file name="blank.gif" crc="4208392903" ref="index:about-us:bracket:history"/>
+    <file name="u195.png" crc="3789995177" ref="index:about-us:bracket:history"/>
+    <file name="u195-a.png" crc="3789995177" ref="index:about-us:bracket:history"/>
+    <file name="u200.png" crc="4105490203" ref="index:about-us:bracket:history"/>
+    <file name="u200-a.png" crc="4105490203" ref="index:about-us:bracket:history"/>
+    <file name="u186.png" crc="4229725602" ref="index:about-us:bracket:history"/>
+    <file name="u186-a.png" crc="4229725602" ref="index:about-us:bracket:history"/>
+  </folder>
+  <file name="index.html" crc="3781150394" mt="1515876923616" redirect="true"/>
+  <file name="about-us.html" crc="4284045967" mt="1515876923616" redirect="true"/>
+  <file name="bracket.html" crc="65986773" mt="1515877169941" redirect="true"/>
+  <file name="history.html" crc="3962512386" mt="1515876923617" redirect="true"/>
+</manifest>

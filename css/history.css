@@ -1,0 +1,144 @@
+.version.history /* version checker */
+{
+	color: #0000ED;
+	background-color: #E3BDF0;
+}
+
+.html
+{
+	background: #FFFFFF url("../images/cpgbackground.jpg") repeat left top scroll;
+}
+
+#page
+{
+	z-index: 1;
+	width: 487px;
+	min-height: 100px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 20px 227px 380px 246px;
+}
+
+#u181-4
+{
+	z-index: 2;
+}
+
+#menuu182
+{
+	z-index: 6;
+	width: 473px;
+	margin-left: 2px;
+	top: -9px;
+	margin-bottom: -9px;
+}
+
+#u190
+{
+	width: 156px;
+	min-height: 34px;
+	margin-right: -10000px;
+}
+
+#u193
+{
+	width: 156px;
+	padding-bottom: 6px;
+}
+
+#u193:hover
+{
+	margin: 0px;
+}
+
+#u193:active
+{
+	margin: 0px;
+}
+
+#u197
+{
+	width: 156px;
+	min-height: 34px;
+	margin-right: -10000px;
+	left: 158px;
+}
+
+#u198
+{
+	width: 156px;
+	padding-bottom: 6px;
+}
+
+#u193.MuseMenuActive,#u198:hover
+{
+	margin: 0px;
+}
+
+#u198:active
+{
+	margin: 0px;
+}
+
+#u195,#u200
+{
+	height: 28px;
+	width: 156px;
+	margin-right: -10000px;
+	top: 3px;
+}
+
+#u183
+{
+	width: 157px;
+	min-height: 34px;
+	margin-right: -10000px;
+	left: 316px;
+}
+
+#u184
+{
+	width: 157px;
+	padding-bottom: 6px;
+}
+
+#u198.MuseMenuActive,#u184:hover
+{
+	margin: 0px;
+}
+
+#u184:active
+{
+	margin: 0px;
+}
+
+#u184.MuseMenuActive
+{
+	margin: 0px;
+}
+
+#u186
+{
+	height: 28px;
+	width: 157px;
+	margin-right: -10000px;
+	top: 3px;
+}
+
+body
+{
+	position: relative;
+	min-width: 960px;
+	padding-top: 36px;
+	padding-bottom: 36px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+
