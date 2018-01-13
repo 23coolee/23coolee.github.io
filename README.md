@@ -1,2 +1,0 @@
-# cpg
-The CPG website. 
